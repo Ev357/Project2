@@ -13,15 +13,3 @@
 - regulátor 2x: *16Kč*, [link](https://dratek.cz/arduino/7737-linearni-regulator-napeti-5-v-typ-7805.html)
 
 - Celkem: *2846Kč* + doprava
-
-
----
-title: New Issue
-labels: bug, enhancement
----
-<!--#
-NOUN=mother
-ATTRIBUTION=Mark Wahlberg
-$-->
-
-"Say hi to your {{ NOUN }} for me," {{ ATTRIBUTION }}
