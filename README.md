@@ -1,7 +1,9 @@
 # Project2
 ## Components  i need:
 - mg996r servo 4x: *656Kč*, [link](https://www.laskakit.cz/servo-mg996-s-kovovymi-prevody-180---extra-silne)
-- step up modul 2x: *46Kč*, [link](https://dratek.cz/arduino/1696-step-up-modul-napajeni-mt3608-2a-dc-dc.html)
+- esp32-devkitc 1x: *227Kč*, [link](https://dratek.cz/arduino/51547-esp32-devkitc-development-board-38pin.html)
+
+
 - baterie 5x: *1450Kč*, [link](https://dratek.cz/arduino/52400-baterie-18650-3-7v-3500mah-10a-ncr18650ga.html)
 - nabíječka 1x: *215Kč*, [link](https://www.neven.cz/kategorie/elektronicke-soucastky/nabijecky/dvojita-nabijecka-pro-dve-baterie-18650-3-6v-3-7v)
 - kryt 5x: *80Kč*, [link](https://dratek.cz/arduino/7500-bateriovy-box-1x18650-s-vodici.html)
