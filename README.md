@@ -1,3 +1,3 @@
 # Project2
-## Component  i need:
+## Components  i need:
 - 
