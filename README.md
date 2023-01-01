@@ -5,6 +5,8 @@
 - UPS 18650 1x: *330Kč*, [link](https://www.tipa.eu/cz/nabijecka-baterii-powerbanka-modul-v8-pro-esp32esp8266-pro-4x-li-ion-18650)
 - Batteries 4x: *716Kč*, [link](https://dratek.cz/arduino/48194-li-ion-akumulator-18650-westinghouse-2600mah.html)
 - Conductors 1x: *128Kč*, [link](https://www.laskakit.cz/propojovaci-vodice-10cm-24awg-300-kusu)
+- Belt 1x: *98Kč*, [link](https://www.laskakit.cz/remen-gt2-2m-se-skelnym-vlaknem-6mm/)
+
 ### Motors:
 - GM25-370 9V 150rpm 4x, *1392Kč*, [link](https://www.laskakit.cz/motor-gm25-370-9v-150rpm-s-prevodovkou-a-enkoderem-/)
 - NFP-JGA12-N20-EN 4x, *1174Kč*, [link](https://microdcmotors.com/product/micro-dc-gear-motor-reduction-motor-gearbox-model-nfp-gm12-n20-00301-10d)
@@ -17,4 +19,4 @@
 - ttl converter 1x: *72Kč*, [link](https://dratek.cz/arduino/1158-eses-cp2102-usb-ttl-prevodnik.html)
 
 ---
-- Total: *≈3548Kč* + Transport
+- Total: *≈3646Kč* + Transport
