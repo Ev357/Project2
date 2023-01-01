@@ -9,4 +9,4 @@
 - senzors 4x: *112Kč*, [link](https://www.laskakit.cz/arduino-infracerveny-senzor-sledovani-cary)
 - ttl converter 1x: *72Kč*, [link](https://dratek.cz/arduino/1158-eses-cp2102-usb-ttl-prevodnik.html)
 ---
-- Tital: *2846Kč* + transport
+- Total: *2846Kč* + transport
