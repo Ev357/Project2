@@ -3,10 +3,11 @@
 - mg996r servo 4x: *656Kč*, [link](https://www.laskakit.cz/servo-mg996-s-kovovymi-prevody-180---extra-silne)
 - esp32-devkitc 1x: *227Kč*, [link](https://dratek.cz/arduino/51547-esp32-devkitc-development-board-38pin.html)
 - UPS 18650 1x: *330Kč*, [link](https://www.tipa.eu/cz/nabijecka-baterii-powerbanka-modul-v8-pro-esp32esp8266-pro-4x-li-ion-18650)
+- baterie 4x: *716č*, [link](https://dratek.cz/arduino/48194-li-ion-akumulator-18650-westinghouse-2600mah.html)
 
 
 ---
-- baterie 5x: *1450Kč*, [link](https://dratek.cz/arduino/52400-baterie-18650-3-7v-3500mah-10a-ncr18650ga.html)
+
 - senzor 4x: *112Kč*, [link](https://www.laskakit.cz/arduino-infracerveny-senzor-sledovani-cary)
 - konektor 1x: *13Kč*, [link](https://www.laskakit.cz/konektor-dc-5-5-2-1mm-samec-25cm-kabel)
 - wifi modul 1x: *118Kč*, [link](https://www.laskakit.cz/ai-thinker-esp-12s-esp8266-ce-wifi-modul)
