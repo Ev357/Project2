@@ -16,6 +16,11 @@
 - L9110S 2x, *76Kč*, [link](https://www.laskakit.cz/h-mustek-radic-l9110s/)
 - IO L293D 2x, *74Kč*, [link](https://dratek.cz/arduino/1128-io-l293d-pro-rizeni-motoru.html)
 
+### Mecanum wheels:
+- Mecanum wheels, 1x *559Kč*, [link](https://www.laskakit.cz/sada-4ks-mecanum-omni-wheel-kol-60mm-s-motory/)
+- Mecanum wheels, 1x *578Kč*, [link](https://www.laskakit.cz/sada-4ks-mecanum-omni-kol-60mm/)
+- Mecanum wheels, 1x *495Kč*, [link](https://botland.cz/omni-wheels/19386-sada-kol-mecanum-48-mm-4-kusy-cerna-zluta-s-valecky-dfrobot-fit0662-1-5904422346539.html)
+
 ### Maybe?
 - Senzors 4x: *112Kč*, [link](https://www.laskakit.cz/arduino-infracerveny-senzor-sledovani-cary)
 
