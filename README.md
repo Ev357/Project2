@@ -24,8 +24,10 @@
 ### Maybe?
 - Senzors 4x: *112Kč*, [link](https://www.laskakit.cz/arduino-infracerveny-senzor-sledovani-cary)
 
+<!--
 ### Things i just want:
 - ttl converter 1x: *72Kč*, [link](https://dratek.cz/arduino/1158-eses-cp2102-usb-ttl-prevodnik.html)
+-->
 
 <!--
 ---
