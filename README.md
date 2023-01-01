@@ -26,6 +26,7 @@
 
 ### Things i just want:
 - ttl converter 1x: *72Kč*, [link](https://dratek.cz/arduino/1158-eses-cp2102-usb-ttl-prevodnik.html)
-
+<!--
 ---
-- Total: *≈3646Kč* + Transport
+- Total: *≈3646Kč* + Transport 
+-->
