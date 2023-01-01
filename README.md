@@ -14,7 +14,7 @@
 
 ### Motor drivers:
 - L9110S 2x, *76Kč*, [link](https://www.laskakit.cz/h-mustek-radic-l9110s/)
-- 
+- IO L293D 2x, *74Kč*, [link](https://dratek.cz/arduino/1128-io-l293d-pro-rizeni-motoru.html)
 
 ### Maybe?
 - Senzors 4x: *112Kč*, [link](https://www.laskakit.cz/arduino-infracerveny-senzor-sledovani-cary)
