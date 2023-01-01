@@ -12,6 +12,10 @@
 - NFP-JGA12-N20-EN 4x, *1174Kč*, [link](https://microdcmotors.com/product/micro-dc-gear-motor-reduction-motor-gearbox-model-nfp-gm12-n20-00301-10d)
 - NFP-JGA25-370-EN 4x, *1355Kč*, [link](https://microdcmotors.com/product/12v-24v-dc-single-shaft-gear-motor-with-encoder-model-nfp-jga25-370-en)
 
+### Motor driver:
+- L9110S 2x, *76Kč*, [link](https://www.laskakit.cz/h-mustek-radic-l9110s/)
+- 
+
 ### Maybe?
 - Senzors 4x: *112Kč*, [link](https://www.laskakit.cz/arduino-infracerveny-senzor-sledovani-cary)
 
