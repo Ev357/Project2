@@ -8,5 +8,5 @@
 ---
 - senzor 4x: *112Kč*, [link](https://www.laskakit.cz/arduino-infracerveny-senzor-sledovani-cary)
 - ttl převodník 1x: *72Kč*, [link](https://dratek.cz/arduino/1158-eses-cp2102-usb-ttl-prevodnik.html)
-------------------
+---
 - Celkem: *2846Kč* + doprava
