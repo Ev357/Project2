@@ -23,6 +23,7 @@
 
 ### Maybe?
 - Senzors 4x: *112Kč*, [link](https://www.laskakit.cz/arduino-infracerveny-senzor-sledovani-cary)
+- Step up modul 1x: *23Kč*, [link](https://dratek.cz/arduino/1696-step-up-modul-napajeni-mt3608-2a-dc-dc.html)
 
 <!--
 ### Things i just want:
